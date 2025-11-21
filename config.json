@@ -59,5 +59,25 @@
         }
       ]
     }
+    ,
+    {
+      "id": "fastapi-rest-apis",
+      "title": "Construindo APIs REST com FastAPI",
+      "description": "Criar APIs RESTful básicas usando FastAPI, modelos Pydantic e documentação automática.",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2025-11-28",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter_code.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "text"
+        }
+      ]
+    }
   ]
 }
